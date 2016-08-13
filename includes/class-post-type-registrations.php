@@ -64,7 +64,8 @@ class SSM_Product_Rentals_Registrations {
 			'supports'        => $supports,
 			'public'          => true,
 			'capability_type' => 'post',
-			'rewrite'         => array( 'slug' => 'product', ), // Permalinks format
+			'rewrite'         => array( 'slug' => 'product', ),
+			'has_archive'			=>	'products',
 			'menu_position'   => 30,
 			'menu_icon'       => 'dashicons-admin-page',
 		);
