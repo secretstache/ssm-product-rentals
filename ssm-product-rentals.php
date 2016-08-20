@@ -9,7 +9,7 @@
  * Plugin Name: SSM Product Rentals
  * Plugin URI:  http://secretstache.com
  * Description: Enables a Product Rentals Custom Post Type.
- * Version:     0.1.2
+ * Version:     0.1.3
  * Author:      Secret Stache Media
  * Author URI:  http://secretstache.com
  * Text Domain: ssm-product-rentals
